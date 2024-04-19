@@ -1,6 +1,6 @@
 body
 {
-
+background-color: black;
 
 
 }
@@ -10,7 +10,7 @@ body
 
 #oszlop  
 {
-background-color: grey;
+background-color: rgb(96, 231, 114);
 }
 
 
@@ -37,6 +37,11 @@ p{
 font-size: 20px;
 }
 
+#vita{
+
+background-color: rgb(184, 214, 170);
+
+}
 
 
 
