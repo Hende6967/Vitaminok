@@ -1,0 +1,53 @@
+body
+{
+background-color: black;
+
+
+}
+
+
+
+
+#oszlop  
+{
+background-color: rgb(18, 1, 252);
+}
+
+
+
+h1{
+font-size: 50px;
+font-weight: bold;
+font-family: fantasy;
+text-align: center;
+}
+
+h2{
+font-size: 60px;
+font-weight: normal;
+size: 60px; color: rgb(255, 251, 0);
+text-align: center;
+}
+
+h3{
+    font-size: 30px;
+    font-weight: normal;
+}
+
+
+p{
+    margin-left: 30px;
+    margin-bottom: 50px;
+font-size: 20px;
+font-family:fantasy;
+}
+
+#vita{
+
+background-color: rgb(238, 255, 0);
+
+}
+
+
+
+
